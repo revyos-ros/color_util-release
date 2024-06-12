@@ -1,3 +1,26 @@
+## color_util (jazzy) - 1.0.0-5
+
+The packages in the `color_util` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy color_util --override-release-repository-push-url git@github.com:revyos-ros/color_util-release.git` on `Wed, 12 Jun 2024 04:24:04 -0000`
+
+The `color_util` package was released.
+
+Version of package(s) in repository `color_util`:
+
+- upstream repository: https://github.com/MetroRobots/color_util.git
+- release repository: https://github.com/revyos-ros/color_util-release.git
+- rosdistro version: `1.0.0-4`
+- old version: `1.0.0-4`
+- new version: `1.0.0-5`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## color_util (rolling) - 1.0.0-2
 
 The packages in the `color_util` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling color_util` on `Wed, 29 Mar 2023 15:41:15 -0000`
